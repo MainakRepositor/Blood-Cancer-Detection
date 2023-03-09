@@ -1,16 +1,15 @@
-# Lung Cancer Predictor
+# Blood Cancer Predictor
 
-![home](https://user-images.githubusercontent.com/64016811/205644469-6c04ee4f-86f8-40fa-90d0-a4ee302a7f43.jpeg)
+![image](https://user-images.githubusercontent.com/64016811/224062920-19fe4bf9-cdf6-46ed-981a-e661bac573db.png)
 
 
 ### Problem : 
 
-A cancer that begins in the lungs and most often occurs in people who smoke.
-Two major types of lung cancer are non-small cell lung cancer and small cell lung cancer. Causes of lung cancer include smoking, second-hand smoke, exposure to certain toxins and family history. Symptoms include a cough (often with blood), chest pain, wheezing and weight loss. These symptoms often don't appear until the cancer is advanced. Treatments vary but may include surgery, chemotherapy, radiation therapy, targeted drug therapy and immunotherapy.
+Blood cancer is a type of cancer that affects your blood cells. Leukaemia, lymphoma and myeloma are some of the most common types of blood cancer. There are also types called MPNs and MDS. Blood cancer is caused by changes (mutations) in the DNA within blood cells. These symptoms often don't appear until the cancer is advanced. Treatments vary but may include surgery, chemotherapy, radiation therapy, targeted drug therapy and immunotherapy.
 
 ### Solution:
 
-This Web app will help you to predict whether a person has chances of cardiac arrest or is prone to get it in future by analysing the values of several features using the Decision Tree Classifier.
+This Web app will help you to predict whether a person has chances of cardiac arrest or is prone to get it in future by analysing the values of several features using the ANN.
 
 ### Idea: 
 Building an application that can predict the occurrence of a cardiac arrest or the possible causes of it by indicating the highly relevant factors. 
@@ -46,7 +45,3 @@ Building an application that can predict the occurrence of a cardiac arrest or t
 ![image](https://user-images.githubusercontent.com/64016811/198943581-38dc1948-caac-4762-9f1a-1bdf2ef887f3.png)
 
 
-### Made with 💙 by:
-![maker](https://user-images.githubusercontent.com/64016811/198821378-09bf5224-a537-4154-9df9-d9b29da95af7.jpg)
-
-## MAINAK CHAUDHURI
